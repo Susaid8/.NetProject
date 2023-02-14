@@ -1,0 +1,12 @@
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\bin\Debug\net6.0\Sample.DataAccess.deps.json
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\bin\Debug\net6.0\Sample.DataAccess.dll
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\bin\Debug\net6.0\Sample.DataAccess.pdb
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.AssemblyInfo.cs
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.dll
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\refint\Sample.DataAccess.dll
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\Sample.DataAccess.pdb
+C:\Users\sumaya.said-omar\source\repos\Sample\Sample.DataAccess\obj\Debug\net6.0\ref\Sample.DataAccess.dll
